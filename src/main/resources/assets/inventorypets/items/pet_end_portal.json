@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_end_portal",
+                  "type":  "minecraft:model"
+              }
+}

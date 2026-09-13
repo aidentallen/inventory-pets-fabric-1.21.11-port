@@ -1,0 +1,12 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "result":  {
+                   "id":  "inventorypets:pet_meta_peaceful"
+               },
+    "ingredients":  [
+                        "#inventorypets:peaceful_pets",
+                        "#inventorypets:peaceful_pets",
+                        "#inventorypets:peaceful_pets",
+                        "#inventorypets:peaceful_pets"
+                    ]
+}

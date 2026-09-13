@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/xerox_parc_gui",
+                  "type":  "minecraft:model"
+              }
+}

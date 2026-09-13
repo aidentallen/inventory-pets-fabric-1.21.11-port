@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_wither"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ONO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "F":  "minecraft:soul_sand",
+                "G":  "minecraft:gold_ingot",
+                "N":  "minecraft:nether_star",
+                "O":  "inventorypets:nugget_coal"
+            }
+}

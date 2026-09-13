@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_politically_correct",
+                  "type":  "minecraft:model"
+              }
+}

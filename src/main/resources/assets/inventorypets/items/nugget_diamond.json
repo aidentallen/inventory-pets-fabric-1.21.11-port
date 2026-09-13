@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/nugget_diamond",
+                  "type":  "minecraft:model"
+              }
+}

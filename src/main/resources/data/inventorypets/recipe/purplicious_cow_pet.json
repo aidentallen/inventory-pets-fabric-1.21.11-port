@@ -1,0 +1,18 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_purplicious_cow"
+               },
+    "pattern":  [
+                    "OFB",
+                    "ODB",
+                    "OGB"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "B":  "minecraft:iron_nugget",
+                "D":  "minecraft:diamond",
+                "F":  "inventorypets:nugget_diamond",
+                "G":  "minecraft:gold_ingot",
+                "O":  "inventorypets:nugget_lapis"
+            }
+}

@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_snow_golem",
+                  "type":  "minecraft:model"
+              }
+}

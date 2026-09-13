@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_snow_golem"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "minecraft:pumpkin",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:quartz"
+            }
+}

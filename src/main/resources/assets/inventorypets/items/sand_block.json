@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/sand_block",
+                  "type":  "minecraft:model"
+              }
+}

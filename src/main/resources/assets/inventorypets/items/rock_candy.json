@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/rock_candy",
+                  "type":  "minecraft:model"
+              }
+}

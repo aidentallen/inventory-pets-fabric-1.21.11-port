@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/sand_spawn",
+                  "type":  "minecraft:model"
+              }
+}

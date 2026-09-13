@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "inventorypets",
+	"version": "${version}",
+	"name": "Inventory Pets (Private Fabric Port)",
+	"description": "Private interoperability port of Inventory Pets 2.2.9 for Fabric 1.21.11.",
+	"authors": [
+		"Purplicious_Cow",
+		"cy4n",
+		"Private Fabric interoperability port"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-pets"
+	},
+	"license": "All Rights Reserved",
+	"icon": "iplogo.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.inventorypets.fabric.InventoryPetsFabric"
+		],
+		"client": [
+			"com.inventorypets.fabric.client.InventoryPetsFabricClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "=1.21.11",
+		"java": ">=21",
+		"fabric-api": ">=0.141.6+1.21.11"
+	}
+}

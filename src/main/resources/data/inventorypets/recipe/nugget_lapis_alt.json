@@ -1,0 +1,11 @@
+{
+    "result":  {
+                   "id":  "inventorypets:nugget_lapis",
+                   "count":  9
+               },
+    "ingredients":  [
+                        "minecraft:lapis_lazuli",
+                        "minecraft:dirt"
+                    ],
+    "type":  "minecraft:crafting_shapeless"
+}

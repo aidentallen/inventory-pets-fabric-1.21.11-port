@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_pixie",
+                  "type":  "minecraft:model"
+              }
+}

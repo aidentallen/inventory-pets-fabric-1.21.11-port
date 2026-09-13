@@ -1,0 +1,12 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "result":  {
+                   "id":  "inventorypets:pet_meta_fan"
+               },
+    "ingredients":  [
+                        "#inventorypets:fan_pets",
+                        "#inventorypets:fan_pets",
+                        "#inventorypets:fan_pets",
+                        "#inventorypets:fan_pets"
+                    ]
+}

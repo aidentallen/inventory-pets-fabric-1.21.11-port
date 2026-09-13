@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_nether_portal",
+                  "type":  "minecraft:model"
+              }
+}

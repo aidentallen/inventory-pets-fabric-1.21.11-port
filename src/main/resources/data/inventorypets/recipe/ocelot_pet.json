@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_ocelot"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "#inventorypets:cooked_fishes",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:gold_nugget"
+            }
+}

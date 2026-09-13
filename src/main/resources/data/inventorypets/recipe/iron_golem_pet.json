@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_iron_golem"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "minecraft:iron_ingot",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:iron_nugget"
+            }
+}

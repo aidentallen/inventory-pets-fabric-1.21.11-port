@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_quiver"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "minecraft:feather",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:leather"
+            }
+}

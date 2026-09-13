@@ -1,0 +1,18 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_pixie"
+               },
+    "pattern":  [
+                    "OFO",
+                    "EDE",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "E":  "minecraft:emerald",
+                "F":  "inventorypets:nugget_emerald",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:gold_ingot"
+            }
+}

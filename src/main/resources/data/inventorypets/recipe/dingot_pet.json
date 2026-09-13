@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_dingot"
+               },
+    "pattern":  [
+                    "OFO",
+                    "OBO",
+                    "ODO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "B":  "inventorypets:pet_biome",
+                "F":  "minecraft:copper_ingot",
+                "D":  "inventorypets:pet_pingot",
+                "O":  "minecraft:diamond"
+            }
+}

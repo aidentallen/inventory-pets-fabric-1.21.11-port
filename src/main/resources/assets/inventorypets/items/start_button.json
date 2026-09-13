@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/start_button",
+                  "type":  "minecraft:model"
+              }
+}

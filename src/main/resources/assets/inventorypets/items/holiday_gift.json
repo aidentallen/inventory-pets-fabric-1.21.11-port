@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/holiday_gift",
+                  "type":  "minecraft:model"
+              }
+}

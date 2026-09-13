@@ -1,0 +1,14 @@
+{
+    "result":  {
+                   "id":  "minecraft:obsidian"
+               },
+    "pattern":  [
+                    "TTT",
+                    "TTT",
+                    "TTT"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "T":  "inventorypets:nugget_obsidian"
+            }
+}

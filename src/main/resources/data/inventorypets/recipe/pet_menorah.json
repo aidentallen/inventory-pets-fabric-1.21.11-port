@@ -1,0 +1,18 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_menorah"
+               },
+    "pattern":  [
+                    "TFT",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "T":  "inventorypets:nugget_lapis",
+                "D":  "minecraft:diamond",
+                "F":  "minecraft:lapis_lazuli",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:gold_nugget"
+            }
+}

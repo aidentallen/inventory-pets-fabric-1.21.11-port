@@ -1,0 +1,14 @@
+{
+    "result":  {
+                   "id":  "minecraft:lapis_lazuli"
+               },
+    "pattern":  [
+                    "TTT",
+                    "TTT",
+                    "TTT"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "T":  "inventorypets:nugget_lapis"
+            }
+}

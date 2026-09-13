@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_jukebox"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "minecraft:redstone",
+                "G":  "minecraft:gold_ingot",
+                "O":  "#minecraft:planks"
+            }
+}

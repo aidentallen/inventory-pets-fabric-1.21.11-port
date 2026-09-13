@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/oak_leaves",
+                  "type":  "minecraft:model"
+              }
+}

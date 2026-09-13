@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/candy_cane",
+                  "type":  "minecraft:model"
+              }
+}

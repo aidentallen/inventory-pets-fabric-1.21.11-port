@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_enderman",
+                  "type":  "minecraft:model"
+              }
+}

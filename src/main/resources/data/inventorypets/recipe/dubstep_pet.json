@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_dubstep"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:emerald",
+                "F":  "minecraft:note_block",
+                "G":  "minecraft:diamond",
+                "O":  "inventorypets:nugget_coal"
+            }
+}

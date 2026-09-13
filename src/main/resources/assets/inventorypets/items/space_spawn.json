@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/space_spawn",
+                  "type":  "minecraft:model"
+              }
+}

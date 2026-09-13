@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/temp_feed_bag",
+                  "type":  "minecraft:model"
+              }
+}

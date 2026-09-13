@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_nether_portal"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "minecraft:quartz",
+                "G":  "minecraft:gold_ingot",
+                "O":  "inventorypets:nugget_obsidian"
+            }
+}

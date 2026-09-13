@@ -1,0 +1,15 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_sated_chest"
+               },
+    "pattern":  [
+                    "OOO",
+                    "ODO",
+                    "OOO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "inventorypets:pet_chest",
+                "O":  "inventorypets:nugget_diamond"
+            }
+}

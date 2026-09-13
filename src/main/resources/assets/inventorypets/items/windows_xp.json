@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/windows_xp",
+                  "type":  "minecraft:model"
+              }
+}

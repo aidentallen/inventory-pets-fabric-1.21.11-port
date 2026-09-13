@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_moon"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:emerald",
+                "F":  "inventorypets:nugget_diamond",
+                "G":  "minecraft:diamond",
+                "O":  "minecraft:quartz"
+            }
+}

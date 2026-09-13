@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/banana",
+                  "type":  "minecraft:model"
+              }
+}

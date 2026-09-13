@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/item_petrifier",
+                  "type":  "minecraft:model"
+              }
+}

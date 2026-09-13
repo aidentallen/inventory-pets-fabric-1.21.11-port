@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/patreon_shirt",
+                  "type":  "minecraft:model"
+              }
+}

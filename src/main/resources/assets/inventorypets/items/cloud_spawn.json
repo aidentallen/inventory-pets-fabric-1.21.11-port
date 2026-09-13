@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/cloud_spawn",
+                  "type":  "minecraft:model"
+              }
+}

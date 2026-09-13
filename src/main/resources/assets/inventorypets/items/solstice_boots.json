@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/solstice_boots",
+                  "type":  "minecraft:model"
+              }
+}

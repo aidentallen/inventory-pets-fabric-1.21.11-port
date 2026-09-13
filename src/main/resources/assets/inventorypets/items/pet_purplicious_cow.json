@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_purplicious_cow",
+                  "type":  "minecraft:model"
+              }
+}

@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_pingot"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "inventorypets:nugget_diamond",
+                "G":  "minecraft:gold_ingot",
+                "O":  "minecraft:lapis_lazuli"
+            }
+}

@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_mickerson"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:nether_star",
+                "F":  "inventorypets:nugget_diamond",
+                "G":  "minecraft:gold_ingot",
+                "O":  "inventorypets:nugget_lapis"
+            }
+}

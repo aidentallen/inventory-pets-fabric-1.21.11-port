@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/siamese_gift",
+                  "type":  "minecraft:model"
+              }
+}

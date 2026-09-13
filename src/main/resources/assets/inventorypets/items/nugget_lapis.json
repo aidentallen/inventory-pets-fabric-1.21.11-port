@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/nugget_lapis",
+                  "type":  "minecraft:model"
+              }
+}

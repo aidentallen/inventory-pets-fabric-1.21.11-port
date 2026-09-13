@@ -1,0 +1,12 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "result":  {
+                   "id":  "inventorypets:pet_meta_aoe"
+               },
+    "ingredients":  [
+                        "#inventorypets:aoe_pets",
+                        "#inventorypets:aoe_pets",
+                        "#inventorypets:aoe_pets",
+                        "#inventorypets:aoe_pets"
+                    ]
+}

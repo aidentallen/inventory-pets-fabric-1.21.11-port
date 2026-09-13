@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_meta_utility",
+                  "type":  "minecraft:model"
+              }
+}

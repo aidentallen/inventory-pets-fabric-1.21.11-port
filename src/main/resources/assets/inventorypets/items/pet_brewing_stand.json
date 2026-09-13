@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_brewing_stand",
+                  "type":  "minecraft:model"
+              }
+}

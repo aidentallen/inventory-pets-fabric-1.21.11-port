@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/temp_sated_double_chest",
+                  "type":  "minecraft:model"
+              }
+}

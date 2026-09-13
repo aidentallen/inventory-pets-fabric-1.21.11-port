@@ -1,0 +1,16 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_flying_saddle"
+               },
+    "pattern":  [
+                    "OFO",
+                    "FDF",
+                    "OFO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "O":  "minecraft:diamond",
+                "F":  "minecraft:diamond",
+                "D":  "inventorypets:pet_saddle"
+            }
+}

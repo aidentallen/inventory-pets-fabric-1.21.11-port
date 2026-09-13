@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_ender_chest",
+                  "type":  "minecraft:model"
+              }
+}

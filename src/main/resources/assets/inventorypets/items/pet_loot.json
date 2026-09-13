@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "model":  "inventorypets:item/pet_loot",
+                  "type":  "minecraft:model"
+              }
+}

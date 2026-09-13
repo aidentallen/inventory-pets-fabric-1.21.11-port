@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_juggernaut"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:diamond",
+                "F":  "inventorypets:nugget_obsidian",
+                "G":  "minecraft:nether_star",
+                "O":  "minecraft:redstone"
+            }
+}

@@ -1,0 +1,17 @@
+{
+    "result":  {
+                   "id":  "inventorypets:pet_black_hole"
+               },
+    "pattern":  [
+                    "OFO",
+                    "ODO",
+                    "OGO"
+                ],
+    "type":  "minecraft:crafting_shaped",
+    "key":  {
+                "D":  "minecraft:nether_star",
+                "F":  "inventorypets:nugget_obsidian",
+                "G":  "minecraft:diamond",
+                "O":  "inventorypets:nugget_coal"
+            }
+}
