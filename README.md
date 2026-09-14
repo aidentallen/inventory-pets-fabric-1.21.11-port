@@ -54,6 +54,13 @@ Nuggets (diamond, obsidian, coal, lapis, ender, emerald, netherite) for feeding 
 
 The output jar will be in `build/libs/`.
 
+## Releases
+
+Tagged releases (`v*`) are built by GitHub Actions. Each release includes the
+JAR and a `SHA256SUMS.txt` checksum file. The `v2.2.9` asset was replaced after
+its original upload was saved as an invalid multipart HTTP body rather than a
+JAR; rebuilt JARs now begin with the standard `PK` ZIP signature.
+
 ## Running (Dev)
 
 ```bash
