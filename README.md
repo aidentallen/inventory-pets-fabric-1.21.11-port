@@ -85,4 +85,4 @@ src/main/java/com/inventorypets/fabric/
 
 - **Purplicious_Cow** — Original mod author
 - **cy4n** — Co-author
-- Community — Testing and feedback
+- **Codex** — Star of the show
